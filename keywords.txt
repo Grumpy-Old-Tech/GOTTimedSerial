@@ -6,18 +6,18 @@
 # Datatypes (KEYWORD1)
 ##########################################
 
-GOTTimedSerial			KEYWORD1
+GOTTimedSerial	KEYWORD1
 
 ##########################################
 # Methods and Functions (KEYWORD2)
 ##########################################
 
-begin				KEYWORD2
-execute				KEYWORD2
-isReceivedReady			KEYWORD2
-getReceiveBuffer		KEYWORD2
-sendOnSerial			KEYWORD2
-sendOnSerialLN			KEYWORD2
+begin	KEYWORD2
+execute	KEYWORD2
+isReceivedReady	KEYWORD2
+getReceiveBuffer	KEYWORD2
+sendOnSerial	KEYWORD2
+sendOnSerialLN	KEYWORD2
 
 ##########################################
 # Constants (LITERAL1)
